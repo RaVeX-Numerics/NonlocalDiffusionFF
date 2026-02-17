@@ -81,5 +81,7 @@ ylabel('Boundaries');
 - Ensure that the kernel \( J(x) \) satisfies normalization (\( \int J(x) dx = 1 \)) for consistent results.
 - Adjust \( M \) and \( dt \) for higher resolution and stability.
 
+## Reference:
+Casabán, M.C., Company, R., Egorova, V., Fakharany, M. and Jódar, L. (2025), A Front-Fixing Numerical Method for a Free-Boundary Nonlocal Diffusion Logistic Model. Stud Appl Math., 155: e70094. [https://doi.org/10.1111/sapm.70094](https://doi.org/10.1111/sapm.70094)
 
 
